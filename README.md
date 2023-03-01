@@ -18,3 +18,7 @@ https://2un-light.tistory.com/47
 
 ## 개발 환경
 - spyder4
+
+## 성능 결과
+![image](https://user-images.githubusercontent.com/82020828/222201882-ccfa88c2-3213-49b0-aafb-9a54e73d864b.png)
+![image](https://user-images.githubusercontent.com/82020828/222201899-d7462163-cf85-4eae-b0db-3160e0987943.png)
